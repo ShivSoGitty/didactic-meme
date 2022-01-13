@@ -1,0 +1,16 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid aqua;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+body{
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Julius Sans One', sans-serif;
+    color: rgb(43, 255, 0);
+}
